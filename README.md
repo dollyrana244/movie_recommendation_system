@@ -1,5 +1,8 @@
 # Movie_Recommendation_System
 
+User want to watch the movie to get new movies based on rating or user based new conent so user will login the page and sign up so user can get web based application on website so home page will appear if user want to watch movie and user give rating as per her choice database it will store the rating admin can see all the activity and admin can change anything but after that database it will check the users rating and compare taste of another user so they will get recommendation it will predict the movies name or suggestion on another user recommend. 
+
+
 login page
 
 ![image](https://user-images.githubusercontent.com/80416542/122774544-e575eb00-d2c6-11eb-919e-e2c381168ca9.png)
